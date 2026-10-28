@@ -22,3 +22,8 @@ Generates two points on a map like this in Lily Bay State Park in Maine:
 
 ![Map showing two points a few dozen feet away from each other next to a lake](images/zoomed-in-two-points.PNG "Lily Bay State Park")
 ![Map showing the whole state of Maine and the points in central Maine](images/zoomed-out-two-points.PNG "Northeastern North America")
+
+I also used my phone's camera to automatically embed GPS coordinates in the EXIF metadata of photos of blown down trees found while hiking. These coordinates can be manually read or mapped on a tool like https://www.pic2map.com/
+
+![GPS coordinates shown under properties of an image](images/exif-data-showing-gps.PNG "Image Coordinates")
+![Map showing four points corresponding the images of blowndown trees](images/mapping-photos-arcadia.PNG "Images within Arcadia")
